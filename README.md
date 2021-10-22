@@ -11,4 +11,5 @@ Bonus
 Video : in Repo 
 # Echipa
 Constantinescu George-Gabriel grupa IRM2
+
 Bogatu Daniel-Marian grupa IRM2
